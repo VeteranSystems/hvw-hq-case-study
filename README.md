@@ -76,6 +76,29 @@ The tests use mocked services and synthetic records. They do not establish deplo
 
 The next phase is focused on authorization hardening, deployment-level verification, clearer runbooks and completing the remaining surfaces.
 
+
+## Real sandbox screenshots
+
+Captured November 4, 2026 from the separate sandbox app at 1440 × 1000. These are unaltered browser captures of implemented UI with fictional DEMO records, not mockups or evidence of real people, grant awards, cash raised, or production adoption. No live sync or external research was executed during capture.
+
+![Participation and paperwork readiness remain visible for fictional members.](images/02-members-readiness.jpg)
+
+Participation and paperwork readiness remain visible for fictional members.
+
+![Published sample events connect scheduling with program operations.](images/04-events.jpg)
+
+Published sample events connect scheduling with program operations.
+
+![Player equipment requests show costs, inventory matches, and fulfillment actions.](images/05-equipment-needs.jpg)
+
+Player equipment requests show costs, inventory matches, and fulfillment actions.
+
+![Project-linked needs separate required, secured, pending, and remaining funding.](images/07-project-funding-linkage.jpg)
+
+Project-linked needs separate required, secured, pending, and remaining funding.
+
+**Capture limits:** HQ and Funding Desk dashboards display different additional-funding totals ($2,610 versus $1,110) for the same sample need/secured/pending amounts. HQ also reports zero active projects while its Projects view lists an In Progress fixture. The HQ budget view shows an over-allocation warning and was excluded from this selection. Existing Synced/Integrated badges do not establish a live synchronization test. Discovery scores and eligibility indicators are sample behavior; source verification remains necessary.
+
 ## About this repository
 
 This is a documentation-only portfolio case study. Application source and operational records remain private. No member records, internal endpoints, credentials or real financial outcomes are included. No public demo access is provided here.
